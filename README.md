@@ -1,7 +1,7 @@
 # Oudjani-seyyid-taqy-eddine-portfolio
 🚀 Welcome to My Personal Portfolio! 🚀
 
-Hello there! I'm [Your Name], a passionate individual with a keen interest in the dynamic world of computer science, particularly in the thrilling realms of cybersecurity. This repository houses my personal portfolio website, designed to reflect my journey, skills, and enthusiasm for all things tech.
+Hello there! I'm Oudjani seyyid taqy eddine, a passionate individual with a keen interest in the dynamic world of computer science, particularly in the thrilling realms of cybersecurity. This repository houses my personal portfolio website, designed to reflect my journey, skills, and enthusiasm for all things tech.
 
 What You'll Find Here:
 
